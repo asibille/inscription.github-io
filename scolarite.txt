@@ -1,0 +1,28 @@
+﻿===Base de données scolarite
+
+== Structure de la table eleve
+
+|------
+|Colonne|Type|Null|Défaut
+|------
+|//**num_eleve**//|int(100)|Non|
+|nom_prenom|varchar(100)|Non|
+|Adresse|varchar(100)|Non|
+|num_tel|varchar(100)|Non|
+== Contenu de la table eleve
+
+|0| | |0
+|9|s|a|06
+|11|Axel|test 47 test|56446596
+|14|lol|test 35 test|544632
+|55|popo|rue lol ff15|8705
+|1455|sibille2| |0
+== Structure de la table eleve
+
+|------
+|Colonne|Type|Null|Défaut
+|------
+|//**num_eleve**//|int(100)|Non|
+|nom_prenom|varchar(100)|Non|
+|Adresse|varchar(100)|Non|
+|num_tel|varchar(100)|Non|
